@@ -4,6 +4,6 @@ Long Term Almanac for Sun, Moon, Brighter Planets and Polaris 1.14 by H. Umland
 A perpetual almanac for Sun, Moon, Venus, Mars, Jupiter, Saturn, and Polaris.
 Calculates GHA, RA, Dec, and miscellaneous astronomical data.
 Requires current value for Delta T.
-This is an extended version of the above program.
+
 Since the uncompressed file is rather large (1.1 mb), starting the program from the hard drive is recommended.
 http://www.celnav.de/planets.zip
